@@ -1,4 +1,4 @@
-**Amazon User Segmentation Using K-Means Clustering**
+### **Amazon User Segmentation Using K-Means Clustering**
 
 This project focuses on how Amazon segments its users to personalize their experience on the platform. Amazon's homepage is tailored uniquely for each user by analyzing their previous browsing history, purchasing patterns, and engagement metrics. To achieve this, Amazon uses machine learning techniques, specifically K-Means Clustering, to group users into distinct segments.
 
